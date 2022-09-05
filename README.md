@@ -21,3 +21,9 @@ Welcome to Kibo, Seun
 We're glad you're here, Seun
 Seun, how did you hear about us?
 ```
+
+## Testing
+
+Run your code manually to verify that it has the same output as the above.
+
+Then, run the automated tests to check your solution.
